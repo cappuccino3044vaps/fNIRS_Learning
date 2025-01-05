@@ -40,6 +40,7 @@ file: 元のfNIRSデータが保存されているファイル名やパス。
 nEvents: 記録された全イベント数。
 nClasses: タスクに関連するクラス数（例: 左手、右手、休憩なら3）。
 className: タスク条件を表すクラス名リスト（例: ["LeftTap", "RightTap", "Rest"] など）。
+　
 4. ch40 (fNIRS channel data)
 このセクションには、個々のチャネル（ここでは40番目のチャネル）で記録されたfNIRS信号が格納されています。
 
