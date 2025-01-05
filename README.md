@@ -4,7 +4,7 @@ OSのデータセットを使ってfNIRSデータの扱いを学ぼうという�
 >データセット
 ><https://figshare.com/articles/dataset/Open_access_fNIRS_dataset_for_classification_of_the_unilateral_finger-_and_foot-tapping/9783755?file=18069143>
 
-# Dataset Infomation
+# Dataset Infomation(著：ChatGPT)
 1. mrk (marker information)
 このセクションは、タスク実行中のイベント（マーカー）に関する情報を格納していると推察されます。
 
